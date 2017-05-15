@@ -3,7 +3,7 @@ WinGetActiveTitle, title
 if (title = "") {
    Send, ^o
    Send, admin
-   Sleep, 250
+   Sleep, 500
    Send, {Enter}
 }
 Return
