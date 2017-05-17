@@ -14,7 +14,7 @@ Right click on listary-plugins.ahk and compile script.
 Create a shortcut and place it in the startup folder: (shell:startup)
 
 ## Features
-* Convert a backslash slash into Listary
+* Convert slash to backslash into Listary
 * Display Listary by pressing the left Windows key once.
 * Launch an application in administrator mode by pressing SHIFT + ENTER.
 
