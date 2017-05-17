@@ -1,25 +1,3 @@
-# Plugins qui améliorent l'expérience utilisateur avec Listary
-## Installation
-Télécharger et installer AutoHotkey :  https://autohotkey.com/download/
-
-Télécharger le repository ou faites un git clone.
-
-### Tester
-Clic droit listary-plugins.ahk et run script
-
-### Compilation
-Clic droit sur listary-plugins.ahk et compile script.
-
-### Lancer script au démarrage de Windows
-Créer un raccourci et le placer dans le dossier de démarrage : shell:startup
-
-## Fonctionnalités
-* Converti un slash en backslash dans Listary
-* Affiche Listary en appuyant une fois sur la touche Windows gauche.
-* Lancer une application en mode administrateur en appuyant sur SHIFT + ENTER.
-
-Commenter / décommenter un include dans listary-plugin.ahk pour activer / désactiver une fonctionnalité.
-
 # Plugins that enhance the user experience with Listary
 ## Installation
 Download and install AutoHotkey: https://autohotkey.com/download/
